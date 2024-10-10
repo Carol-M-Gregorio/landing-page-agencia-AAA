@@ -37,6 +37,6 @@ body{
     transition: 0.3s;
 }
 
-.header a:houver h1{
+.header a:hover h1{
     color: blueviolet;
 }
